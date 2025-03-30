@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil de Luciane003 😁
+## Bem-vindo(a) ao perfil de Luciane003 
 
  <div>
    <a href="https://github.com/luciane003">
@@ -14,8 +14,8 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Para mais informações entre em contato comigo!
  
-<div> https://
+<div> 
   <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>

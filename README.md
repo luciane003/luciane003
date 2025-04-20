@@ -12,6 +12,7 @@
 </div>
  
 <br>
+![snake gif](https://github.com/luciane003/luciane003/blob/output/github-contribution-grid-snake.svg)
  
 ### Para mais informações entre em contato comigo!
  

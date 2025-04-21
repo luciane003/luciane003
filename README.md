@@ -1,3 +1,4 @@
+![Meu nome animado](apresentação-gif.gif)
 ## Bem-vindo(a) ao meu perfil 
 
 <div>

@@ -1,4 +1,4 @@
-![Meu nome animado](nome-animado.gif.gif)
+![Meu nome animado](nome-animado-gif.gif)
 # Bem-vindo(a) ao meu perfil 
 
 <div>

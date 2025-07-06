@@ -14,7 +14,9 @@
  
 <br>
 
-
+<div>
+   <img src="https://raw.githubusercontent.com/luciane003/luciane003/output/snake.svg" alt="Snake animation" /> 
+</div>
  
 ### Para mais informações entre em contato comigo!
  

@@ -14,7 +14,7 @@
 </div>
  
 <br>
-  <img src="https://raw.githubusercontent.com/luciane003/luciane003/main/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/luciane003/luciane003/main/output/snake.svg" alt="Snake animation"/>
 </div>
  
 ### Para mais informações entre em contato comigo!

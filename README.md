@@ -14,8 +14,7 @@
 </div>
  
 <br>
-
-<div>![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luciane003&theme=tokyonight)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luciane003&theme=tokyonight)
 </div>
  
 ### Para mais informações entre em contato comigo!

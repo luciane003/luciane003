@@ -2,14 +2,13 @@
 # Bem-vindo(a) ao meu perfil 
 
 <div>
-   <a href="https://github.com/luciane003">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciane003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciane003&layout=compact&langs_count=6&theme=tokyonight"/>
+   ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luciane003&theme=tokyonight)
 </div>
     
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
  
 <br>

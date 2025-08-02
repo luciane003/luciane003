@@ -14,7 +14,7 @@
 </div>
  
 <br>
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=luciane003&theme=tokyonight)
+  <img src="https://raw.githubusercontent.com/luciane003/luciane003/main/output/snake.svg" alt="Snake animation" />
 </div>
  
 ### Para mais informações entre em contato comigo!

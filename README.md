@@ -1,6 +1,8 @@
 ![Meu nome animado](nome-animado-gif.gif)
 # Bem-vindo(a) ao meu perfil 
 
+💻 **Front-end Developer em formação** | Apaixonada por criar interfaces bonitas e funcionais
+
 <div>
     <a href="https://github.com/luciane003">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciane003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>

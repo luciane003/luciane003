@@ -1,7 +1,7 @@
 ![Meu nome animado](nome-animado-gif.gif)
 # Bem-vindo(a) ao meu perfil 
 
-💻 **Front-end Developer em formação** | Apaixonada por criar interfaces bonitas e funcionais
+💻 **Desenvolvedora front-end em formação** | Apaixonada por criar interfaces bonitas e funcionais
 
 <div>
     <a href="https://github.com/luciane003">

@@ -1,5 +1,5 @@
 ![Meu nome animado](nome-animado-gif.gif)
-# Bem-vindo(a) ao meu perfil ✨
+# Bem-vindo(a) ao meu perfil 
 
 💻 **Desenvolvedora front-end em formação** | Apaixonada por criar interfaces bonitas e funcionais
 

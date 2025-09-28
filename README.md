@@ -15,10 +15,6 @@
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
 </div>
  
-<br>
-  <img src="https://raw.githubusercontent.com/luciane003/luciane003/output/snake.svg" alt="Snake animation" />
-</div>
- 
 ### Para mais informações entre em contato comigo!
  
 <div style="display: inline_block"><br> 

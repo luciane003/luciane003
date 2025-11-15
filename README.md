@@ -21,9 +21,16 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
 ---
 
 ## 📂 Projetos em destaque
-- [Card Produto](link) - Lista de produtos em **React + Tailwind**  
-- [Studio Ghibli](link) - API de filmes em **React + TypeScript**  
-- [Portfólio](link) - Meu portfólio pessoal  
+- [Portfólio](https://luciane003.github.io/portfolio-luciane/) | [Repositório](https://github.com/luciane003/portfolio-luciane)  
+ Meu portfólio pessoal, atualmente desenvolvido em **HTML e CSS**, mostrando meus projetos e design de interfaces.  
+  Planejo adicionar **JavaScript, TypeScript e React** para tornar o portfólio ainda mais interativo.
+   
+- [Conference-ticket-generator](https://luciane003.github.io/Conference-ticket-generator/) | [Repositório](https://github.com/luciane003/Conference-ticket-generator)
+  Projeto interativo de Front-End que permite criar ingressos personalizados para eventos, incluindo informações do usuário e avatar, demonstrando manipulação de DOM e interatividade.
+
+- [AppNotas](https://luciane003.github.io/App-Notas/) | [Repositório](https://github.com/luciane003/App-Notas)
+  Aplicativo de notas simples e funcional, permitindo **criar, editar e apagar notas**.  
+  Desenvolvido em **HTML, CSS e JavaScript**, mostrando manipulação de dados e interface interativa.
 
 ---
 
@@ -35,7 +42,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
   <a href="https://wa.me/5517996417374" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2300C853?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="mailto:seuemail@email.com" target="_blank">
+  <a href="lucianekellenpsarges@gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
@@ -46,17 +53,3 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciane003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciane003&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-
-<!-- <div>
-    <a href="https://github.com/luciane003">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciane003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciane003&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
- 
-### Para mais informações entre em contato comigo!
- 
-<div style="display: inline_block"><br> 
-  <a href="https://www.linkedin.com/in/luciane-kellen-bb8279342/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://wa.me/5517996417374" target="_blank"><img  height="40" width="40" src="https://github.com/user-attachments/assets/da75e70c-b550-4684-8548-ff61fecc7c7e" target="_blank"></a>
-</div> -->

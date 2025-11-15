@@ -14,8 +14,8 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi√
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg">
-  <img align="center" alt="Vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
+ <img align="center" alt="GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg">
+ <img align="center" alt="Vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
 </div>
 
 ---

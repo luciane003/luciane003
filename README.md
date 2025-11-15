@@ -42,7 +42,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi√
   <a href="https://wa.me/5517996417374" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-%2300C853?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
-  <a href="lucianekellenpsarges@gmail" target="_blank">
+  <a href="lucianekellenp.sarges@gmail" target="_blank">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>

@@ -46,10 +46,3 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi√
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
----
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luciane003&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luciane003&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>

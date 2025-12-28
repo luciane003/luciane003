@@ -23,16 +23,18 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
 ## 📂 Projetos em destaque
 - [Portfólio](https://luciane003.github.io/portfolio-luciane/) | [Repositório](https://github.com/luciane003/portfolio-luciane)
    
- Meu portfólio pessoal, atualmente desenvolvido em **HTML e CSS**, mostrando meus projetos e design de interfaces. Planejo adicionar **JavaScript, TypeScript e React** para tornar o portfólio ainda mais interativo.
+   Meu portfólio pessoal, atualmente desenvolvido em **HTML e CSS**, mostrando meus projetos e design de interfaces. Planejo adicionar **JavaScript, TypeScript e React** para tornar o portfólio ainda mais interativo.
 
 - [StoreMix](https://luciane003.github.io/storemix-react/) | [Repositório](https://github.com/luciane003/storemix-react)
     
-StoreMix é um projeto de front-end em React com TypeScript, focado em criar uma experiência moderna de loja online.
+  StoreMix é um projeto de front-end em React com TypeScript, focado em criar uma experiência moderna de loja online.
    
 - [Conference-ticket-generator](https://luciane003.github.io/Conference-ticket-generator/) | [Repositório](https://github.com/luciane003/Conference-ticket-generator)
+
   Projeto interativo de Front-End que permite criar ingressos personalizados para eventos, incluindo informações do usuário e avatar, demonstrando manipulação de DOM e interatividade.
 
 - [AppNotas](https://luciane003.github.io/App-Notas/) | [Repositório](https://github.com/luciane003/App-Notas)
+
   Aplicativo de notas simples e funcional, permitindo **criar, editar e apagar notas**.  
   Desenvolvido em **HTML, CSS e JavaScript**, mostrando manipulação de dados e interface interativa.
 

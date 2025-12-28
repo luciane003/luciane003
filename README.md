@@ -1,6 +1,6 @@
 ![Meu nome animado](nome-animado-gif.gif)
 
-💻 **Front-End Developer Júnior** |Apaixonada por criar interfaces **funcionais, responsivas e visualmente atraentes**.  
+💻 **Front-End Developer Júnior**   |   Apaixonada por criar interfaces **funcionais, responsivas e visualmente atraentes**.  
 Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experiência prática.
 
 ---

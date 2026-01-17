@@ -35,7 +35,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
 
 - [AppNotas](https://luciane003.github.io/App-Notas/) | [Repositório](https://github.com/luciane003/App-Notas)
 
-  Aplicativo de notas simples e funcional, permitindo **criar, editar, apagar notas **, com persistência de dados em backend próprio.  
+  Aplicativo de notas simples e funcional, permitindo **criar, editar, apagar notas**, com persistência de dados em backend próprio.  
   Desenvolvido em **HTML, CSS e JavaScript**, com consumo de API REST criada em Node.js e Express, utilizando CORS e deploy em produção no Render, garantindo que as anotações do usuário permaneçam salvas mesmo após sair e retornar ao site.
 ---
 

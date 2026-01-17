@@ -33,7 +33,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
 
   Projeto interativo de Front-End que permite criar ingressos personalizados para eventos, incluindo informações do usuário e avatar, demonstrando manipulação de DOM e interatividade.
 
-- [AppNotas](https://luciane003.github.io/App-Notas/) | [Repositório](https://github.com/luciane003/App-Notas)
+- [AppNotas](https://luciane003.github.io/App-Notas-frontend/) | [Repositório](https://github.com/luciane003/App-Notas-frontend)
 
   Aplicativo de notas simples e funcional, permitindo **criar, editar, apagar notas**, com persistência de dados em backend próprio.  
   Desenvolvido em **HTML, CSS e JavaScript**, com consumo de API REST criada em Node.js e Express, utilizando CORS e deploy em produção no Render, garantindo que as anotações do usuário permaneçam salvas mesmo após sair e retornar ao site.

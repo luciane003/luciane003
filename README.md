@@ -21,6 +21,12 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi√
 </div>
 
 ### Backend
+<div style="display: inline_block">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Express.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg">
+  <img align="center" alt="CORS" height="40" width="50" src="https://img.shields.io/badge/CORS-Enabled-blue?style=for-the-badge">
+  <img align="center" alt="API REST" height="40" width="100" src="https://img.shields.io/badge/REST-API%20REST-success?style=for-the-badge">
+</div>
 
 ---
 

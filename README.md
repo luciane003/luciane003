@@ -6,6 +6,8 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experiÃ
 ---
 
 ## ğŸ›  Tecnologias
+
+### Frontend
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -17,6 +19,8 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experiÃ
   <img align="center" alt="GitHub" height="30" width="40" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png">
  <img align="center" alt="Vite" height="30" width="40" src="https://vitejs.dev/logo.svg">
 </div>
+
+### Backend
 
 ---
 

@@ -33,7 +33,7 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
 ## 📂 Projetos em destaque
 - [Portfólio](https://luciane003.github.io/portfolio-luciane/) | [Repositório](https://github.com/luciane003/portfolio-luciane)
    
-   Meu portfólio pessoal, atualmente desenvolvido em **HTML e CSS**, mostrando meus projetos e design de interfaces. Planejo adicionar **JavaScript, TypeScript e React** para tornar o portfólio ainda mais interativo.
+   Meu portfólio pessoal, atualmente desenvolvido em **HTML, CSS e JavaScript**, mostrando meus projetos e design de interfaces. Planejo adicionar **TypeScript e React** para tornar o portfólio ainda mais interativo.
 
 - [StoreMix](https://luciane003.github.io/storemix-react/) | [Repositório](https://github.com/luciane003/storemix-react)
     

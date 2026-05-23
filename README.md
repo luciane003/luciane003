@@ -38,6 +38,10 @@ Sempre aprendendo novas tecnologias e desenvolvendo projetos que agregam experi�
 - [StoreMix](https://luciane003.github.io/storemix-react/) | [Repositório](https://github.com/luciane003/storemix-react)
     
   StoreMix é um projeto de front-end em React com TypeScript, focado em criar uma experiência moderna de loja online.
+
+  - [Dessert-menu](https://luciane003.github.io/dessert-menu/) | [Repositório](https://github.com/luciane003/dessert-menu)
+ 
+    Um site de pedidos de sobremesas que permite ao usuário escolher e pedir de forma rápida, fácil e prática, desenvolvido em **HTML, CSS e JavaScript**.
    
 - [Conference-ticket-generator](https://luciane003.github.io/Conference-ticket-generator/) | [Repositório](https://github.com/luciane003/Conference-ticket-generator)
 
